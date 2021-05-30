@@ -1,8 +1,8 @@
 # Coursera Data Science Capstone
 
-**Jeffrey M. Hunter**
+**Kadir Berktas**
 
-July 28, 2019
+May 30 2021
 
 ## Introduction
 
@@ -28,9 +28,6 @@ includes a description of the major features of the training data based on our
 exploratory data analysis and to summarize our plans for creating the text
 predictive model.
 
-##### Links
-
-* Milestone Report available on RPubs: <a target="_blank"  href="http://rpubs.com/OracleJavaNet/coursera-data-science-milestone-report">http://rpubs.com/OracleJavaNet/coursera-data-science-milestone-report</a>
 
 ### Final Project Submission
 
@@ -44,11 +41,4 @@ developed Shiny application as well as the RStudio Presenter files.
 The Shiny application is hosted on shinyapps.io and the Presentation (slides)
 are available on RPubs.
 
-##### Links
-
-* Final project submission (Shiny App): <a target="_blank"  href="https://jhunter.shinyapps.io/coursera-data-science-capstone/">https://jhunter.shinyapps.io/coursera-data-science-capstone/</a>
-
-* Final project submission (Presentation): <a target="_blank"  href="http://rpubs.com/OracleJavaNet/coursera_data_science_capstone">http://rpubs.com/OracleJavaNet/coursera_data_science_capstone/</a>
-
-* Source code files available on GitHub: <a target="_blank"   href="https://github.com/oraclejavanet/coursera-data-science-capstone/">https://github.com/oraclejavanet/coursera-data-science-capstone/</a>
 
