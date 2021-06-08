@@ -1,8 +1,8 @@
 # Coursera Data Science Capstone
 
-**Kadir Berktas**
+**Wenqian Zhang**
 
-May 30 2021
+June 08 2021
 
 ## Introduction
 
